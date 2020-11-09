@@ -204,5 +204,6 @@ root@uceka:~# wireshark &
 ;select <VariableName> interface
 ```
 
-ref: [uceka.com](https://uceka.com/2014/05/12/wireless-penetration-testing-cheat-sheet)
-ref: [koutto](https://github.com/koutto/pi-pwnbox-rogueap)
+References:
+https://uceka.com/2014/05/12/wireless-penetration-testing-cheat-sheet
+https://github.com/koutto/pi-pwnbox-rogueap
