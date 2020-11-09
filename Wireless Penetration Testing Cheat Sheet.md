@@ -205,5 +205,5 @@ root@uceka:~# wireshark &
 ```
 
 References:
-https://uceka.com/2014/05/12/wireless-penetration-testing-cheat-sheet
-https://github.com/koutto/pi-pwnbox-rogueap
+- https://uceka.com/2014/05/12/wireless-penetration-testing-cheat-sheet
+- https://github.com/koutto/pi-pwnbox-rogueap
